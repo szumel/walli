@@ -1,0 +1,18 @@
+let name = "walli";
+ley age = 1;
+let result = 10 * (20/2);
+
+ley myArray = [1,2,3,4,5];
+
+let hash = {"name": "piotr", "age": 28};
+
+let arrayElem = myArray[0]
+
+ley hashElem = hash["name"]
+
+let add = fn(a, b) { return a + b; };
+
+fn (a, b) {
+    return a + b;
+};
+
